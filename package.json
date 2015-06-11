@@ -1,0 +1,15 @@
+{
+  "name": "simple-brunch",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "brunch": "git://github.com/brunch/brunch.git#c713270c39d12dff46b170df526c604cb45ccdaa",
+    "javascript-brunch": "^1.7.1",
+    "sass-brunch": "^1.8.10"
+  },
+  "dependencies": {
+    "backbone": "^1.2.1",
+    "jquery": "^2.1.4"
+  }
+}
+
